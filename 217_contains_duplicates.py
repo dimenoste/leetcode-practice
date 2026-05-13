@@ -10,7 +10,7 @@ class NaiveSolution:
         return False
 
 
-## better solution
+## better solution Time O(n) Space O(n)
 class BetterSolution:
     def __init__(self):
         self.hashset = set()
